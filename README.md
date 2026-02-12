@@ -13,12 +13,12 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 ## February 25
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|                                                                                                                                           
+| The Crucial Role of AI Evaluations | Michael Dawson | [PDF](2026-02-25/The_crucial_role_of_AI_evaluations-michael_dawson.pdf) |
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-
-
+| Ramping up on Llama Stack for developing AI applications | Michael Dawson | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf) |
 
 ## February 27
 | Presentation Title | Speaker Name  | Content |
