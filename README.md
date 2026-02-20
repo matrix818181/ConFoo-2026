@@ -17,7 +17,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 ## February 26
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-
+| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](./‎2026-02-26/chip8-emulation.pdf)
 
 
 ## February 27
