@@ -12,12 +12,13 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 25
 | Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|                                                                                                                                           
+|--------------------|---------------|---------|  
+|Learn to develop at WARP speed!|Heath Kesler|Learn_to_Develop_at_WARP_Speed-Heath_Kesler.pdf                                                                                                                              
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-
+|AI Assemble! Build your own private Development Team|Heath Kesler|AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf
 
 
 ## February 27
