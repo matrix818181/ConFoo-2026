@@ -15,14 +15,16 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Presentation Title                     | Speaker Name | Content                                                                            |
 | -------------------------------------- | ------------ | ---------------------------------------------------------------------------------- |
 | Exploring the Power of Browser Storage | Rowdy Rabouw | [Slides (PDF)](25-02-2026/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf) |
+| The Director to CTO path: following it, or mentoring it | Kevin Goldsmith | [Slides (PDF)](2026-02-25/The_Director_To_CTO_Path_following_it_or_mentoring_it-Kevin_Goldsmith.pdf) |
+
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|                                                                                                                                           
+|--------------------|---------------|---------|                                                                                                                 
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
-
-| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](./‎2026-02-26/chip8-emulation.pdf) |
-| Blending Product Thinking With Architecture | Joel Tosi | [PDF](./‎2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
+| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
+| Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
+| Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf) |
 
 ## February 27
 
