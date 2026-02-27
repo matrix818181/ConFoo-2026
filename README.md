@@ -22,6 +22,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Component Testing in 2026, the return of the browser | Guy Nesher | [Slides (PDF)](2026-02-25/component_testing_in_2026_the_return_of_the_browser.pdf) |
 | Boosting Frontend Speed: Quick Wins for Backend Developers | Paul Conroy | [PDF](2026-02-25/boosting_frontend_speed_quick_wins-for_backend_developers-paul_conroy.pdf) |
 | ASP.NET Core: From DEV to PRD | Wesley Cabus | [PDF](2026-02-25/asp_net_core_from_dev_to_prd-wesley-cabus.pdf) |
+| [Evolution of Software Architecture Patterns](https://confoo.ca/en/2026/session/an-evolution-of-software-architecture-patterns) | Ralf Westphal | [PDF with link to whiteboard](2026-02-25/Evolution_of_Software_Architectur_Patterns-Ralf_Westphal.pdf) |
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
@@ -40,3 +41,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
 | JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](2026-02-27/cpu_time_profiler-johannes_bechberger.pdf) |
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
+| [Event Sourcing without Dogma](https://confoo.ca/en/2026/session/event-sourcing-without-dogma-slaying-aggregates-entities) | Ralf Westphal | [PDF with link to whiteboard](2026-02-27/Event_Sourcing_without_dogma-Ralf_Westphal.pdf) |
