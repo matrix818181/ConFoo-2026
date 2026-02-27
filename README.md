@@ -14,20 +14,22 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 25
 
-| Presentation Title                     | Speaker Name | Content                                                                            |
-| -------------------------------------- | ------------ | ---------------------------------------------------------------------------------- |
-| Exploring the Power of Browser Storage | Rowdy Rabouw | [Slides (PDF)](2026-02-25/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf) |
-| Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
-| Beyond the Chatbot, Beyond the IDE: AI in my CI/CD | Justine Gehring | [PDF](2026-02-25/beyond_the_chatbot_beyond_the_ide_ai_in_my_cicd-justine_gehring.pdf) |
+| Presentation Title                                         | Speaker Name | Content                                                                                |
+|------------------------------------------------------------| ------------ |----------------------------------------------------------------------------------------|
+| Exploring the Power of Browser Storage                     | Rowdy Rabouw | [Slides (PDF)](2026-02-25/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf)     |
+| Figma dev mode - Survivre aux designers                    | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf)            |
+| Beyond the Chatbot, Beyond the IDE: AI in my CI/CD         | Justine Gehring | [PDF](2026-02-25/beyond_the_chatbot_beyond_the_ide_ai_in_my_cicd-justine_gehring.pdf)  |
 | Boosting Frontend Speed: Quick Wins for Backend Developers | Paul Conroy | [PDF](2026-02-25/boosting_frontend_speed_quick_wins-for_backend_developers-paul_conroy.pdf) |
+| Reactive progrmming avec Spring Webflux                    | Xavier Bouclet | [PDF](2026-02-25/reactive-programming-avec-Spring-Webflux.pdf)                                                                     |
 
 ## February 26
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
-| Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
-| Kubernetes on a Phone | Johannes Bechberger | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf) |
-| Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf) |
+| Presentation Title                                         | Speaker Name        | Content |
+|------------------------------------------------------------|---------------------|---------|
+| From Zero to Emulator CHIP8 and the Art of Abstraction     | David Guida         | [PDF](2026-02-26/chip8-emulation.pdf) |
+| Blending Product Thinking With Architecture                | Joel Tosi           | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
+| Kubernetes on a Phone                                      | Johannes Bechberger | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf) |
+| Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy         | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf) |
+| OpenTelemetry & Spring Boot                                | Xavier Bouclet      | [PDF](opentelemetry-&-Spring-Boot.pdf) |
 
 ## February 27
 
