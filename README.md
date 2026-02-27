@@ -40,3 +40,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
 | JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](2026-02-27/cpu_time_profiler-johannes_bechberger.pdf) |
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
+|Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
