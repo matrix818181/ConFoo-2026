@@ -20,6 +20,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 | Beyond the Chatbot, Beyond the IDE: AI in my CI/CD | Justine Gehring | [PDF](2026-02-25/beyond_the_chatbot_beyond_the_ide_ai_in_my_cicd-justine_gehring.pdf) |
 | Boosting Frontend Speed: Quick Wins for Backend Developers | Paul Conroy | [PDF](2026-02-25/boosting_frontend_speed_quick_wins-for_backend_developers-paul_conroy.pdf) |
+| ASP.NET Core: From DEV to PRD | Wesley Cabus | [PDF](2026-02-25/asp_net_core_from_dev_to_prd-wesley-cabus.pdf) |
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
@@ -28,6 +29,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
 | Kubernetes on a Phone | Johannes Bechberger | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf) |
 | Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf) |
+| ASP.NET Core Authentication Explained | Wesley Cabus | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf) |
 
 ## February 27
 
