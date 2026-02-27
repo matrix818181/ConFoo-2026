@@ -29,7 +29,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Blending Product Thinking With Architecture                | Joel Tosi           | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
 | Kubernetes on a Phone                                      | Johannes Bechberger | [PDF](2026-02-26/kubernetes-johannes_bechberger.pdf) |
 | Avoiding Déjà Vu: Building Resilient APIs with Idempotency | Paul Conroy         | [PDF](2026-02-26/avoiding_deja_vu_building_resilient_apis_with_idempotency-paul_conroy.pdf) |
-| OpenTelemetry & Spring Boot                                | Xavier Bouclet      | [PDF](opentelemetry-&-Spring-Boot.pdf) |
+| OpenTelemetry & Spring Boot                                | Xavier Bouclet      | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf) |
 
 ## February 27
 
