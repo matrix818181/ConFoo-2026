@@ -66,6 +66,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | The 2025 OWASP Top Ten | Christian Wenz | [PDF](2026-02-27/the_2025_owasp_top_ten-christian_wenz.pdf) |
 | Container Deep Dive - Namespaces, Layers, and cgroups | Daniel Mikusa | [PDF](2026-02-27/container_deep_dive_namespaces_layers_and_cgroups.pdf) & [DEMOS](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos) |
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
+| Mental Models and Heuristics | Marc-Antoine Aubé | [Slides](https://speakerdeck.com/marcaube/mental-models-and-heuristics) |
 | Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
 | Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
