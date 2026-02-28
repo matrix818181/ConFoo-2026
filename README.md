@@ -49,6 +49,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Ramping up on Llama Stack for developing AI applications | Michael Dawson | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf) |
 | Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |          
 | OpenTelemetry & Spring Boot | Xavier Bouclet | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf) |
+| Real-time streaming showdown | Sherif Behna | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf) |
 
 ## February 27
 
@@ -66,3 +67,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
+| La qualité des données, un objectif atteignable? | Sherif Behna | [PDF](2026-02-27/qualite_donnees-sherif_behna.pdf) |
