@@ -16,6 +16,8 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 | Presentation Title                     | Speaker Name | Content                                                                            |
 | -------------------------------------- | ------------ | ---------------------------------------------------------------------------------- |
+| The Director to CTO path: following it, or mentoring it | Kevin Goldsmith | [Slides (PDF)](2026-02-25/The_Director_To_CTO_Path_following_it_or_mentoring_it-Kevin_Goldsmith.pdf) |
+| Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 | Exploring the Power of Browser Storage | Rowdy Rabouw | [Slides (PDF)](2026-02-25/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf) |
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 | Beyond the Chatbot, Beyond the IDE: AI in my CI/CD | Justine Gehring | [PDF](2026-02-25/beyond_the_chatbot_beyond_the_ide_ai_in_my_cicd-justine_gehring.pdf) |
@@ -25,6 +27,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | ASP.NET Core: From DEV to PRD | Wesley Cabus | [PDF](2026-02-25/asp_net_core_from_dev_to_prd-wesley-cabus.pdf) |
 
 ## February 26
+
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
@@ -34,6 +37,10 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | What's New in ASP.NET Core 10 and Blazor 10 | Christian Wenz | [PDF](2026-02-26/new_in_asp.net_core_10_and_blazor_10-christian_wenz.pdf) |
 | From Address to Dashboard: Weather History at Scale | Loïc Tréhin | [PDF](2026-02-26/from_address_to_dashboard_weather_history_at_scale-loic_trehin.pdf) |
 | ASP.NET Core Authentication Explained | Wesley Cabus | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf) |
+| From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
+| Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
+| Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf) |
+| Exploring the Power of Browser Storage | Rowdy Rabouw | [Slides (PDF)](25-02-2026/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf) |
 
 ## February 27
 
