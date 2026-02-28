@@ -26,12 +26,13 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | ASP.NET Core: From DEV to PRD | Wesley Cabus | [PDF](2026-02-25/asp_net_core_from_dev_to_prd-wesley-cabus.pdf) |
 | Simultaneous editing: Easy with Symfony UX | David Buchmann | [HTML](2026-02-25/david-buchmann-symfony-ux.html) |
 | CSRF are back with Client-Side Path Traversal | [Philippe Arteau](https://blog.h3xstream.com/) | [Slides](https://docs.google.com/presentation/d/1wlNKdPB6S7JET3UxAULSG0L0RtdE0qrfM4X1KGL8pDU/view) |
+| The Crucial Role of AI Evaluations | Michael Dawson | [PDF](2026-02-25/The_crucial_role_of_AI_evaluations-michael_dawson.pdf) |
 
 ## February 26
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-| [/^[Rr]eg(ular\s)?[Ee]x(p\|pressions?)?$/](https://confoo.ca/en/2026/session/rr-eg-ular-s-ee-x-p-pressions) | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-26/Regular_Expressions-Jordan_Kasper.pdf) |
+| /^[Rr]eg(ular\s)?[Ee]x(p\|pressions?)?$/ | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-26/Regular_Expressions-Jordan_Kasper.pdf) |
 | From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
 | GraphQL Distilled | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
 | Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
@@ -42,6 +43,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | ASP.NET Core Authentication Explained | Wesley Cabus | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf) |
 | Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf) |
 | Building PHP Applications with the Symfony Framework in 2026 | David Buchmann | [HTML](2026-02-26/david-buchmann-building-php-symfony.html) |
+| Ramping up on Llama Stack for developing AI applications | Michael Dawson | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf) |
 
 ## February 27
 
