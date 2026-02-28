@@ -29,6 +29,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | The Crucial Role of AI Evaluations | Michael Dawson | [PDF](2026-02-25/The_crucial_role_of_AI_evaluations-michael_dawson.pdf) |
 | C# Pit of Success | AL Rodriguez | [Slides (PDF)](2026-02-25/csharp_pit_of_success-al-rodriguez.pdf) |
 | Reactive progrmming avec Spring Webflux | Xavier Bouclet | [PDF](2026-02-25/reactive-programming-avec-Spring-Webflux.pdf) |
+| Managing the human side of a large-scale platform upgrade | Joyce Peralta, Matt Corks | [PDF](2026-02-25/human_side_large_scale_migration-joyce_peralta_matt_corks.pdf) |
 
 ## February 26
 
