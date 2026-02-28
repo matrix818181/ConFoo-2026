@@ -14,8 +14,8 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 25
 
-| Presentation Title                     | Speaker Name | Content                                                                            |
-| -------------------------------------- | ------------ | ---------------------------------------------------------------------------------- |
+| Presentation Title | Speaker Name  | Content |
+| ------------------ | ------------- | ------- |
 | The Director to CTO path: following it, or mentoring it | Kevin Goldsmith | [Slides (PDF)](2026-02-25/The_Director_To_CTO_Path_following_it_or_mentoring_it-Kevin_Goldsmith.pdf) |
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 | Exploring the Power of Browser Storage | Rowdy Rabouw | [Slides (PDF)](2026-02-25/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf) |
@@ -25,6 +25,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Boosting Frontend Speed: Quick Wins for Backend Developers | Paul Conroy | [PDF](2026-02-25/boosting_frontend_speed_quick_wins-for_backend_developers-paul_conroy.pdf) |
 | ASP.NET Core: From DEV to PRD | Wesley Cabus | [PDF](2026-02-25/asp_net_core_from_dev_to_prd-wesley-cabus.pdf) |
 | Simultaneous editing: Easy with Symfony UX | David Buchmann | [HTML](2026-02-25/david-buchmann-symfony-ux.html) |
+| CSRF are back with Client-Side Path Traversal | [Philippe Arteau](https://blog.h3xstream.com/) | [Slides](https://docs.google.com/presentation/d/1wlNKdPB6S7JET3UxAULSG0L0RtdE0qrfM4X1KGL8pDU/view) |
 
 ## February 26
 
@@ -43,8 +44,8 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 27
 
-| Presentation Title                  | Speaker Name | Content                                                                       |
-| ----------------------------------- | ------------ | ----------------------------------------------------------------------------- |
+| Presentation Title | Speaker Name | Content |
+| ------------------ | ------------ | ------- |
 | A web for anyone, anywhere, anytime | Rowdy Rabouw | [Slides (PDF)](2026-02-27/A_web_for_anyone_anywhere_anytime_Rowdy_Rabouw.pdf) |
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
 | From Mosaic to Modern: The Evolution of Web App Architectures | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
