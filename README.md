@@ -31,6 +31,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Reactive progrmming avec Spring Webflux | Xavier Bouclet | [PDF](2026-02-25/reactive-programming-avec-Spring-Webflux.pdf) |
 | Managing the human side of a large-scale platform upgrade | Joyce Peralta, Matt Corks | [PDF](2026-02-25/human_side_large_scale_migration-joyce_peralta_matt_corks.pdf) |
 | Evolution of Software Architecture Patterns | Ralf Westphal | [PDF with link to whiteboard](2026-02-25/Evolution_of_Software_Architectur_Patterns-Ralf_Westphal.pdf) |
+| Learn to develop at WARP speed! | Heath Kesler | [PDF](2026-02-25/Learn_to_Develop_at_WARP_Speed-Heath_Kesler.pdf) |
 
 ## February 26
 
@@ -51,6 +52,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |          
 | OpenTelemetry & Spring Boot | Xavier Bouclet | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf) |
 | Real-time streaming showdown | Sherif Behna | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf) |
+| AI Assemble! Build your own private Development Team | Heath Kesler | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf) |
 
 ## February 27
 
