@@ -27,6 +27,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Simultaneous editing: Easy with Symfony UX | David Buchmann | [HTML](2026-02-25/david-buchmann-symfony-ux.html) |
 | CSRF are back with Client-Side Path Traversal | [Philippe Arteau](https://blog.h3xstream.com/) | [Slides](https://docs.google.com/presentation/d/1wlNKdPB6S7JET3UxAULSG0L0RtdE0qrfM4X1KGL8pDU/view) |
 | The Crucial Role of AI Evaluations | Michael Dawson | [PDF](2026-02-25/The_crucial_role_of_AI_evaluations-michael_dawson.pdf) |
+| C# Pit of Success | AL Rodriguez | [Slides (PDF)](2026-02-25/csharp_pit_of_success-al-rodriguez.pdf) |
 
 ## February 26
 
@@ -59,3 +60,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Container Deep Dive - Namespaces, Layers, and cgroups | Daniel Mikusa | [PDF](2026-02-27/container_deep_dive_namespaces_layers_and_cgroups.pdf) & [DEMOS](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos) |
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
 | Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
+| Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
